@@ -1,0 +1,18 @@
+Importing libraries.
+Exploring data.
+
+-Data Cleaning:
+Checking for duplicates (none).
+Checking for missing values.
+Dropping null values.
+Changing budget, gross and votes types to integers.
+Changing rating and genre types to category (less memory usage from 898.7+ KB to 604.5+ KB).
+Converted the released column type to string and removed the country from the string, there's a country column already exists.
+
+-Correlation:
+Correlation matrix for numeric values.
+Heatmap.
+The highest correlations are between budget and gross by 0.74.
+And votes and gross by 0.61.
+Scatter plot and scatter plot with regression line for budget vs gross.
+And for votes vs gross.
