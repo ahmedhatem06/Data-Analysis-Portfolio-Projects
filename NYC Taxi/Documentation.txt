@@ -1,0 +1,45 @@
+•Data Cleaning:
+Incorrect data has been successfully removed, ensuring the accuracy of the dataset.
+
+•Key Findings:
+•Busiest Days: The highest taxi demand is observed on Thursdays and Fridays.
+•Peak Hours: Peak taxi usage occurs between 06:00 PM and 07:00 PM.
+
+•Top Pick-Up Locations:
+237 - Upper East Side South.
+161 - Midtown Center.
+100 - Garment District.
+
+•Top Drop-Off Locations:
+161 - Midtown Center.
+236 - Yorkville West.
+230 - Times Square / Theatre District.
+
+•User Demographics:
+The majority of taxi users are tourists.
+
+•RateCode and Money Analysis:
+The Negotiated Fare has the highest average fare amount.
+Newark has the highest average tip and tolls amounts.
+The Negotiated Fare has the highest average total amount.
+
+•RateCode and Distance:
+Nassau or Westchester tend to have the highest average trip distance.
+
+•RateCode and Time:
+JFK has the highest average trip time (in minutes).
+
+•RateCode and Payment:
+JFK: 71.43% paid by Credit Card.
+Nassau or Westchester: 62.5% Cash, 37.5% Credit Card.
+Negotiated Fare: 70.15% paid by Credit Card.
+Newark: 61.54% paid by Credit Card.
+Standard Rate: 67.26% paid by Credit Card.
+Overall, Credit Card is the most used payment method at 67.34%, followed by Cash at 32%. Disputes account for 0.17%, and No Charge for 0.50%.
+
+•Payment Distribution:
+72.73% of the total amount is paid through Credit Card, while Cash constitutes 26.55%. Disputes and No Charge account for 0.44% and 0.18%, respectively.
+
+•Tip Analysis:
+Tips are collected for Credit Card payments only.
+95.94% of Credit Card payments include tips.
