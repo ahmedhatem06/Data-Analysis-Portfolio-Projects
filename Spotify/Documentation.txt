@@ -1,0 +1,36 @@
+The dataset contains information about most streamed tracks in 2023.
+•Feature Engineering:
+Added an image URL column using Python for both tracks and artists from by integration with Spotify API
+
+•Overview:
+Total streams: 489bn
+Total number of tracks is 952. Most of the tracks are made solo by 586, and colab tracks are 366.
+Blinding lights made by the weekend, is the most streamed songs by 3.7bn
+The weekend also has the highest streams by 14.1bn, slightly ahead by Taylor Swift with 14.05bn
+Although people still loved Bohemian Rhapsody as it's released in 1975 but got 2 billion streams
+19 tracks release date are from 1984 - 2000 and the other are from 2000 and above.
+Key C# is most used key and D# is the least used key among the songs.
+Most of songs are not accoustic with average 27.
+Most of songs have high energy with average of 65
+Most of songs have high danceability with average of 67
+Most of songs are not instrumental with average of 2.
+Most of songs are not performed live with average of 18.
+With an average valence of 52% indicates that the positive songs are a bit slightly more than negative songs.
+With an average speechiness of 10 indicates most songs likely represent music and other non-speech-like tracks.
+The highest audio feature is Danceability with total of 64K.
+•Platform Comparison:
+
+Tracks mostly appeared in Shazam charts (54K) , while tracks mostly appeared in Spotify playlists (5M).
+Top songs in Spotify are not always be top songs in other platform.
+2022 has the highest released tracks with the count by 402.
+Top 10 popular songs most used major mode and # key.
+•Trend of music overtime:
+Bpm is very volatile, too many ups and downs. However, Tracks has an average bpm of 122. The highest bpm is in 1960 and the lowest is 71 in 1970
+Around 1960s, major used more than minor
+Around 1980s, minor used more than major
+Around 2000s, major used more than minor
+Around 2020s, both mode used in same frequency
+•Correlation:
+
+The highest correlation is 0.41, between valence & danceability
+The highest negative correlation is -0.57 between energy & acousticness.
